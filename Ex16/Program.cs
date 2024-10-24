@@ -12,7 +12,7 @@
         }
         public static bool EsTraspas(int any)
         {
-
+            //pendiente de hacer 
         }
     }
 }

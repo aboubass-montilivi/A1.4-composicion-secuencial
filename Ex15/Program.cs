@@ -26,7 +26,7 @@ namespace Ex15
             }
 
 
-            Console.WriteLine("");
+            Console.WriteLine(Incrementa1Segon);
 
         }
 
